@@ -5,3 +5,5 @@
 # Forceful commit
 
 # A second Forceful commit 
+
+# Another regular commit
